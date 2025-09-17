@@ -1,0 +1,4 @@
+#!/bin/bash
+# JIRA Metrics - Simple wrapper script
+
+python3 "$(dirname "$0")/jira_metrics_easy.py" "$@"
